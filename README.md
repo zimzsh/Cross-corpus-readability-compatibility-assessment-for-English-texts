@@ -84,7 +84,7 @@ The features used for readability assessment in our study are divided into three
 ## Framework
 We proposed a method for cross-corpus evaluation that aims to predict the readability of text from different corpora and assess the compatibility of readability systems. The project framework contains six steps: **Feature Extraction**, **Word Vector Representation**, **Feature Fusion**, **Training Model**, **Readability Prediction** and **Readability System Compatibility Assessment**.
 
-<img src=https://github.com/LZZ1212/Cross-corpus-readability-compatibility-assessment-for-English-texts/blob/main/readme_figure/Frame_work.jpg/>
+<img src=https://github.com/zimzsh/Cross-corpus-readability-compatibility-assessment-for-English-texts/blob/main/readme_figure/Frame_work.jpg/>
 
 ## Model
 We employed both machine learning and deep learning approaches with different feature combinations for experimentation. In the model file, we have written a demo for cross-corpus readability assessment using the XGBoost method.
